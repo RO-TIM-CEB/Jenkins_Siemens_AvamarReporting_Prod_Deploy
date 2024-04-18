@@ -14,7 +14,7 @@ pipeline {
         def GIT_BRANCH = "main"
         def AVAMAR_CREDENTIAL_ID = "bd957348-c142-4388-ba91-4002fcd67ae4"
         def PLAYBOOK_NAME = "main.yml"
-        def TARGET = "siemens_dhc_vienna_av"
+        def TARGET = "all_siemens_av"
         }
    /* END Environment */
 
